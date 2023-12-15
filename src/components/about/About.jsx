@@ -26,13 +26,13 @@ const About = () => {
               <article className='about__card'>
                   <GiGraduateCap className='about__icon'/>
                   <h5>Degree</h5>
-                  <small>Bsc.(Hons) Software Engneering(UG) <br /><i>University of Kelaniya.</i></small>
+                  <small>B-tech <br /><i>Heritage Institute of technology,Kolkata</i></small>
               </article>
 
               <article className='about__card'>
                   <BsBookmarkStar className='about__icon'/>
-                  <h5>Current GPA</h5>
-                  <small>3.13</small>
+                  <h5>CGPA</h5>
+                  <small>7.02</small>
               </article>
 
               <article className='about__card'>
@@ -40,8 +40,8 @@ const About = () => {
                   <h5>Domains</h5>
                   <small>
                     <ul>
-                      <li>Net Centric</li>
-                      <li>Mobile Applications</li>
+                      <li>AnandPushp technologies Private Limited</li>
+                      <li>Mern stack developer</li>
                     </ul>
                   </small>
               </article>
@@ -50,11 +50,8 @@ const About = () => {
 
             </div>
             <p>
-                    I'm a <b>Software Engineering Undergradute</b> at the University of Kelaniya. 
-                    I'm an enthusiastic and driven Software Engineering student seeking a challenging internship opportunity to apply 
-                    and expand my technical skills. 
-                    With a strong academic foundation in software engineering and hands-on experience in various programming languages,
-                    I am eager to contribute to innovative projects and learn from experienced professionals in the industry. I am a quick learner who is always ready to face challenges.
+            Mern Stack Developer with 2.4+yrs of experiences.<br/>Good understanding and experience in Node js,Express js ,JavaScript
+(V5 and V6) And React Js. Knowledge in Mongodb,Mysql databases quaries and Php in Codeigniter framwork .
                     
             </p>
 
